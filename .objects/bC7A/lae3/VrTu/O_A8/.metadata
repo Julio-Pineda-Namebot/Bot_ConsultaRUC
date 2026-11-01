@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Obtener texto de Fecha de Inicio de Actividades",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "O_A8S1XC-UCdbT5aygrxpg",
+  "Reference": "FcoVb-C_bk2URK8s1o55zA/O_A8S1XC-UCdbT5aygrxpg",
+  "ParentRef": "FcoVb-C_bk2URK8s1o55zA/VrTuWcDpUkuSK_zQBlMdwA",
+  "Created": "2026-11-01T18:34:56.6070582Z",
+  "Updated": "2026-11-01T18:34:56.6070582Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

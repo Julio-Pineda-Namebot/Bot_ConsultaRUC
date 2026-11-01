@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SYibnR1nD0yT5xsiX-TgqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="909, 248, 633, 20" DesignTimeScaleFactor="1" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl idx='2' tag='H4' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='H4' /&gt;" Guid="50262b29-9034-4549-9d99-07a2663c493d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='*Consulta RUC*' url='https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc*' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="435, 248, 444, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Número de RUC:' tag='H4' type='' class='list-group-item-heading' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:text='Número de RUC:' /&gt;" Guid="39199b9e-3870-4dd7-8397-0241e55fd5ea" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cae05c102b577a041b7e9915a429bd7e.jpg" xmlns="">0ylVeC7kAZkaRwegeb9-LHg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

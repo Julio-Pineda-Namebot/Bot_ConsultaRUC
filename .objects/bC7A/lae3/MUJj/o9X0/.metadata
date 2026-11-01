@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Valor Domicilio Fiscal",
+  "Description": "Texto del domicilio fiscal, a la derecha de la etiqueta Domicilio Fiscal en la ficha de resultados",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "o9X0rZ96uUiRH98PVyCpEQ",
+  "Reference": "FcoVb-C_bk2URK8s1o55zA/o9X0rZ96uUiRH98PVyCpEQ",
+  "ParentRef": "FcoVb-C_bk2URK8s1o55zA/MUJjY--2nUS1aZtUqjirsg",
+  "Created": "2026-11-01T19:11:09.6600542Z",
+  "Updated": "2026-11-01T19:11:09.6600542Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

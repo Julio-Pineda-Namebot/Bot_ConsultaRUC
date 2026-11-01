@@ -1,0 +1,10 @@
+# Generado por UiPath Studio / uip (no versionar)
+.local/
+.storage/
+
+# Archivos temporales de Office
+~$*
+
+# Windows
+Thumbs.db
+desktop.ini

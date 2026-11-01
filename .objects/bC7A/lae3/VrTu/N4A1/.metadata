@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Obtener texto de Domicilio Fiscal",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "N4A1U5JzykyANT1RjSkRtg",
+  "Reference": "FcoVb-C_bk2URK8s1o55zA/N4A1U5JzykyANT1RjSkRtg",
+  "ParentRef": "FcoVb-C_bk2URK8s1o55zA/VrTuWcDpUkuSK_zQBlMdwA",
+  "Created": "2026-11-01T18:34:25.9637556Z",
+  "Updated": "2026-11-01T18:34:25.9637556Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

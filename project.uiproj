@@ -1,0 +1,6 @@
+{
+  "Name": "TA4_Bot_ConsultaRUC",
+  "ProjectType": "Process",
+  "Description": "Proceso en blanco",
+  "MainFile": "Main.xaml"
+}

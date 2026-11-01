@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Usar navegador Chrome en Consulta RUC SUNAT",
+  "Type": "App",
+  "Id": "bC7AU4XKw0uNYQ84DSvwDw",
+  "Reference": "FcoVb-C_bk2URK8s1o55zA/bC7AU4XKw0uNYQ84DSvwDw",
+  "Created": "2026-11-01T18:28:52.8697181Z",
+  "Updated": "2026-11-01T18:28:52.8697181Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

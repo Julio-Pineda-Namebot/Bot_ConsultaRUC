@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Mensaje RUC No Valido",
+  "Description": "Texto del mensaje de SUNAT que indica que el RUC consultado no es valido, debajo del encabezado Resultado de la Busqueda",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "l459Y1Dj3UOkatwTgko7Zw",
+  "Reference": "FcoVb-C_bk2URK8s1o55zA/l459Y1Dj3UOkatwTgko7Zw",
+  "ParentRef": "FcoVb-C_bk2URK8s1o55zA/MUJjY--2nUS1aZtUqjirsg",
+  "Created": "2026-11-01T19:46:00.8551702Z",
+  "Updated": "2026-11-01T19:46:00.8551702Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

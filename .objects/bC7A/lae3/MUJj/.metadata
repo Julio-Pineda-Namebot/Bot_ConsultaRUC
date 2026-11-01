@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Ficha De Resultados RUC",
+  "Description": "Ficha de resultados de la Consulta RUC de SUNAT (página jcrS00Alias), mostrada después de buscar un RUC",
+  "Type": "Screen",
+  "Id": "MUJjY--2nUS1aZtUqjirsg",
+  "Reference": "FcoVb-C_bk2URK8s1o55zA/MUJjY--2nUS1aZtUqjirsg",
+  "ParentRef": "FcoVb-C_bk2URK8s1o55zA/lae3WowNWE2IBl27etaseQ",
+  "Created": "2026-11-01T19:06:56.3841956Z",
+  "Updated": "2026-11-01T19:06:56.3841956Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

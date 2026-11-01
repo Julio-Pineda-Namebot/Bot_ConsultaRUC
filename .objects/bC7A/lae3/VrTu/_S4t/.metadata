@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Obtener texto de Condición del Contribuyente",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_S4tHlneBE6eF5SOExvf9g",
+  "Reference": "FcoVb-C_bk2URK8s1o55zA/_S4tHlneBE6eF5SOExvf9g",
+  "ParentRef": "FcoVb-C_bk2URK8s1o55zA/VrTuWcDpUkuSK_zQBlMdwA",
+  "Created": "2026-11-01T18:34:43.933339Z",
+  "Updated": "2026-11-01T18:34:43.933339Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

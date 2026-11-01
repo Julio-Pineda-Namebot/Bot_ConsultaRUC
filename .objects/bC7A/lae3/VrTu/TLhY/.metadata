@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Obtener mensaje mostrado por SUNAT",
+  "Type": "Element",
+  "Id": "TLhY8R7CA0GTVVrzrJ3oXQ",
+  "Reference": "FcoVb-C_bk2URK8s1o55zA/TLhY8R7CA0GTVVrzrJ3oXQ",
+  "ParentRef": "FcoVb-C_bk2URK8s1o55zA/VrTuWcDpUkuSK_zQBlMdwA",
+  "Created": "2026-11-01T18:38:24.9486175Z",
+  "Updated": "2026-11-01T18:38:24.9486175Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.9.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
