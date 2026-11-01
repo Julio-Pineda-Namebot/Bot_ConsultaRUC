@@ -359,7 +359,7 @@
                                               </Sequence>
                                             </uix:NBrowserDialogScope.Body>
                                           </uix:NBrowserDialogScope>
-                                          <uix:NCheckState sap2010:Annotation.AnnotationText="Espera hasta 15 s el encabezado 'Resultado de la Búsqueda', que solo existe en la ficha de resultados (configurado y validado en la ficha real de SUNAT)." DisplayName="Esperar ficha de resultados" Exists="[blnFichaEncontrada]" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="652,516" sap2010:WorkflowViewState.IdRef="NCheckState_3" ScopeIdentifier="068bfdf1-46c0-484b-b7e8-098e05cd290f" Timeout="15" Version="V5">
+                                          <uix:NCheckState sap2010:Annotation.AnnotationText="Espera hasta 15 s el encabezado 'Resultado de la Búsqueda' de la página de resultados. Aparece tanto en la ficha como en el aviso 'RUC no válido'; la actividad siguiente distingue ambos casos (configurado y validado en la página real de SUNAT)." DisplayName="Esperar ficha de resultados" Exists="[blnFichaEncontrada]" HealingAgentBehavior="Disabled" sap:VirtualizedContainerService.HintSize="652,516" sap2010:WorkflowViewState.IdRef="NCheckState_3" ScopeIdentifier="068bfdf1-46c0-484b-b7e8-098e05cd290f" Timeout="15" Version="V5">
                                             <uix:NCheckState.IfExists>
                                               <Sequence DisplayName="Ficha encontrada" sap:VirtualizedContainerService.HintSize="650,90" sap2010:WorkflowViewState.IdRef="Sequence_14">
                                                 <sap:WorkflowViewStateService.ViewState>
